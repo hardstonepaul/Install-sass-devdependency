@@ -1,4 +1,8 @@
 # Install-sass-devdependency
 Install Sass as dev dependency
 
-´npm install --save-dev sass´
+1. Initialize npm
+  ´npm init -y´
+2. Intall vite and sass as depndency
+  ´npm install -D vite sass´
+3. 
